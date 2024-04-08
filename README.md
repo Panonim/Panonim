@@ -19,3 +19,5 @@ I'm also learning: js, php, rust, vue.
 
 | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Reddit.svg" alt="Reddit" width="66">](https://www.reddit.com/user/arturcodes/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/X.svg" alt="X" width="66">](https://twitter.com/artur4social)   | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
 | :---:   | :---: | :---: | :---:|
+
+<div align="center"><img src="https://bluee.dev/assets/ArturFlis.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
