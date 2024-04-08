@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Hello World
 
-<!--
-**Panonim/Panonim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artur and currently I'm living in Greater Poland. 
 
-Here are some ideas to get you started:
+I'm currently learning Front-end development for 1 year. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also learning: js, php, rust, vue.
+
+
+## 🔨 Projects I'm working on:
+
+• Readme.md ai 
+
+• [Domain Sniper](http://sniper.ovh/)
+
+• [My Personal Page](https://bluee.dev)
+## 🌍 Social Media
+
+
+| [<img src="" alt="Reddit" width="24">] | [<img src="" alt="X" width="24">]   | [<img src="" alt="Website" width="24">]  | [<img src="" alt="Mail" width="24">] |
+| :---:   | :---: | :---: | :---:|
