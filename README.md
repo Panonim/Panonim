@@ -1,6 +1,6 @@
 # 👋 Hello World
 
-My name is Artur and currently I'm living in Greater Poland. 
+My name is Artur and currently I'm living in Greater Poland, Poznań. 
 
 I'm currently learning Front-end development for 1 year. I' also hobbistic logo designer and photoshoter, I really enjoy starting new projects and pushing my creativity to the limit. 
 
