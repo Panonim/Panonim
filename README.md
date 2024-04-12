@@ -14,11 +14,6 @@ I'm also learning: js, php, rust, vue.
 • [Domain Sniper](http://sniper.ovh/)
 
 • [My Personal Page](https://bluee.dev)
-## 🌍 Social Media
-
-
-| [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Reddit.svg" alt="Reddit" width="66">](https://www.reddit.com/user/arturcodes/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/X.svg" alt="X" width="66">](https://twitter.com/artur4social)   | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
-| :---:   | :---: | :---: | :---:|
 
 ## 🌳 Plant The Tree
 For every sponsor, I'm gonna plant a tree, no matter what. Could be one sponsor, could be a thousand – either way, a tree's getting planted for each one who supports my page.
@@ -39,4 +34,9 @@ MMMMMM"___ "_._   MMM"_."" _ """"""
    (_)                    (_)
 ``````
 
+## 🌍 Social Media
+
+
+| [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Reddit.svg" alt="Reddit" width="66">](https://www.reddit.com/user/arturcodes/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/X.svg" alt="X" width="66">](https://twitter.com/artur4social)   | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
+| :---:   | :---: | :---: | :---:|
 <div align="center"><img src="https://bluee.dev/assets/ArturFlis.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
