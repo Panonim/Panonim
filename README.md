@@ -21,7 +21,7 @@ I'm also learning: js, php, rust, vue.
 | :---:   | :---: | :---: | :---:|
 
 ## 🌳 Plant The Tree
-I pledge to plant one tree for every sponsor, regardless of the number. Whether it's one sponsor or a thousand, each contribution will result in a new tree planted on my behalf.
+For every sponsor, I'm gonna plant a tree, no matter what. Could be one sponsor, could be a thousand – either way, a tree's getting planted for each one who supports my page.
 
 ``````
        ,.,
