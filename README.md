@@ -20,6 +20,9 @@ I'm also learning: js, php, rust, vue.
 | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Reddit.svg" alt="Reddit" width="66">](https://www.reddit.com/user/arturcodes/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/X.svg" alt="X" width="66">](https://twitter.com/artur4social)   | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
 | :---:   | :---: | :---: | :---:|
 
+## 🌳 Plant The Tree
+For every sponsor i'm going to plant one tree no matter how much, it can be 1 sponsor or 1k i'm still going to plant one tree for every person to sponsor my page. 
+
 ``````
        ,.,
       MMMM_    ,..,
