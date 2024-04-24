@@ -20,13 +20,15 @@ I'm also learning: js, php, rust, vue.
 ### Calling all tinkerers, tech wizards, and aspiring innovators!  Hacklab is your one-stop shop to unleash your inner hacker.
 
 We're more than just a community, we're a family. We share knowledge, collaborate on mind-blowing projects, and push the boundaries of what's possible.  Stuck on a coding challenge? We'll brainstorm solutions with you.  Got a crazy idea for the next big app? We'll be your biggest cheerleaders.
-
-Join us and:
-    **Learn from the best:** Dive into tutorials, workshops, and discussions led by passionate tech experts.
-    **Level up your skills:** Share your projects, get feedback, and collaborate with fellow hackers of all skill levels.
-    **Make something amazing:** From tinkering with gadgets to building revolutionary software, Hacklab is your launchpad for innovation.
-    B**e part of something bigger:** Contribute to open-source projects, participate in hackathons, and make a real impact on the tech world.
-
+``````
+    Learn from the best: Dive into tutorials, workshops, and discussions led by passionate tech experts.
+    
+    Level up your skills: Share your projects, get feedback, and collaborate with fellow hackers of all skill levels.
+    
+    Make something amazing: From tinkering with gadgets to building revolutionary software, Hacklab is your launchpad for innovation.
+    
+    Be part of something bigger: Contribute to open-source projects, participate in hackathons, and make a real impact on the tech world.
+``````
 Hacklab is a judgement-free zone. We believe in fostering a positive and respectful environment where everyone feels welcome to learn, grow, and create.
 
 Ready to unleash your inner hacker? [Join the Hacklab](https://www.reddit.com/r/hacklab/) community today!
