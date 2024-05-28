@@ -33,25 +33,6 @@ Hacklab is a judgement-free zone. We believe in fostering a positive and respect
 
 Ready to unleash your inner hacker? [Join the Hacklab](https://www.reddit.com/r/hacklab/) community today!
 
-## 🌳 Plant The Tree
-For every sponsor, I'm gonna plant a tree, no matter what. Could be one sponsor, could be a thousand – either way, a tree's getting planted for each one who supports my page.
-
-``````
-       ,.,
-      MMMM_    ,..,
-        "_ "__"MMMMM          ,...,,
- ,..., __." --"    ,.,     _-"MMMMMMM
-MMMMMM"___ "_._   MMM"_."" _ """"""
- """""    "" , \_.   "_. ."
-        ,., _"__ \__./ ."
-       MMMMM_"  "_    ./
-        ''''      (    )
- ._______________.-'____"---._.
-  \                          /
-   \________________________/
-   (_)                    (_)
-``````
-
 ## 🌍 Social Media
 
 
