@@ -15,6 +15,8 @@ I'm also learning: js, php, rust, vue.
 
 • [My Personal Page](https://bluee.dev)
 
+• [Bytelook](https://github.com/Panonim/bytelook)
+
 ## ⚗ Hack Your Way to Awesome at Hacklab!
 
 ### Calling all tinkerers, tech wizards, and aspiring innovators!  Hacklab is your one-stop shop to unleash your inner hacker.
