@@ -1,4 +1,5 @@
-<a href="https://u8views.com/github/Panonim"><img src="https://u8views.com/api/v1/github/profiles/58903942/views/day-week-month-total-count.svg" align="right"></a>
+<a>Tracked since: 12 Jun 2024 11:46</a><a href="https://u8views.com/github/Panonim"><img src="https://u8views.com/api/v1/github/profiles/58903942/views/day-week-month-total-count.svg" align="right"></a>
+
 # 👋 Hello World
 
 My name is Artur and currently I'm living in Greater Poland, Poznań. 
