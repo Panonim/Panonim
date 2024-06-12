@@ -1,3 +1,4 @@
+[![Artur Flis profile views](https://u8views.com/api/v1/github/profiles/58903942/views/day-week-month-total-count.svg)](https://u8views.com/github/Panonim)
 # 👋 Hello World
 
 My name is Artur and currently I'm living in Greater Poland, Poznań. 
@@ -34,6 +35,8 @@ We're more than just a community, we're a family. We share knowledge, collaborat
 Hacklab is a judgement-free zone. We believe in fostering a positive and respectful environment where everyone feels welcome to learn, grow, and create.
 
 Ready to unleash your inner hacker? [Join the Hacklab](https://www.reddit.com/r/hacklab/) community today!
+
+
 
 ## 🌍 Social Media
 
