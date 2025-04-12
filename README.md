@@ -9,13 +9,13 @@ I'm currently learning Front-end development for 3 years. I'm hobbistic logo and
 
 ## 🔨 Projects I'm working on:
 
+• [ReNamed - For Shows](https://github.com/Panonim/Renamed)
+
 • [Glance Whats up docker monitor - custom api widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/wud-monitor-by-panonim/README.md)
 
-• [Domain Sniper](http://sniper.ovh/)
+• [Domain Sniper](https://github.com/Panonim/DomainSniper-Bot)
 
 • [My Personal Page](https://bluee.dev)
-
-• [Bytelook](https://github.com/Panonim/bytelook)
 
 
 ## 🌍 Social Media
