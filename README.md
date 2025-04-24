@@ -4,7 +4,7 @@
 
 My name is Artur and currently I'm living in Greater Poland, Poznań. 
 
-I'm currently learning Front-end development for 3 years. I'm hobbistic logo and web designer, I really enjoy starting new projects and pushing my creativity to the limit. 
+I'm currently learning Front-end since 2020. I'm hobbistic logo and web designer, I really enjoy starting new projects and pushing my creativity to the limit. 
 
 
 ## 🔨 Projects I'm working on:
@@ -12,8 +12,6 @@ I'm currently learning Front-end development for 3 years. I'm hobbistic logo and
 • [ReNamed - For Shows](https://github.com/Panonim/Renamed)
 
 • [Glance Whats up docker monitor - custom api widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/wud-monitor-by-panonim/README.md)
-
-• [Domain Sniper](https://github.com/Panonim/DomainSniper-Bot)
 
 • [My Personal Page](https://bluee.dev)
 
