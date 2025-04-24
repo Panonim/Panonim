@@ -18,9 +18,10 @@ I'm currently learning Front-end development for 3 years. I'm hobbistic logo and
 • [My Personal Page](https://bluee.dev)
 
 
+<img height=230 src="https://github-readme-stats.vercel.app/api?username=panonim&show_icons=true&theme=holi&show=prs_merged&hide=contribs&rank_icon=github&text_bold=false" alt="Github Overview"/> <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=panonim&layout=donut&theme=holi&" alt="Most Used Langs"/>
+
 ## 🌍 Social Media
 
-
- | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
+| [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](https://mail.google.com/mail/u/0/?fs=1&to=office@bluee.dev&tf=cm) |
 | :---: | :---:|
 <div align="center"><img src="https://bluee.dev/assets/ArturFlis.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
