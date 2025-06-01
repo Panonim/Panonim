@@ -11,6 +11,8 @@ I'm currently learning Front-end since 2020. I'm hobbistic logo and web designer
 
 • [ReNamed - For Shows](https://github.com/Panonim/Renamed)
 
+• [Glance Cup Updates - Widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/cup-updates-by-panonim/README.md)
+
 • [Glance Whats up docker monitor - custom api widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/wud-monitor-by-panonim/README.md)
 
 • [My Personal Page](https://bluee.dev)
