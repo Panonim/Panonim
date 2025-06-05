@@ -18,7 +18,7 @@ I'm currently learning Front-end since 2020. I'm hobbistic logo and web designer
 • [My Personal Page](https://bluee.dev)
 
 
-<img height=230 src="https://github-readme-stats.vercel.app/api?username=panonim&show_icons=true&theme=holi&show=prs_merged&hide=contribs&rank_icon=github&text_bold=false" alt="Github Overview"/> <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=panonim&layout=donut&theme=holi&" alt="Most Used Langs"/>
+<img height=230 src="https://github-readme-stats.vercel.app/api?username=panonim&show_icons=true&theme=holi&show=prs_merged&hide=contribs&rank_icon=github&text_bold=false" alt="Github Overview"/> <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=panonim&layout=donut&theme=holi&hide=qml,css" alt="Most Used Langs"/>
 
 ## 🌍 Social Media
 
