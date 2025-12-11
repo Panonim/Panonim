@@ -24,4 +24,4 @@ I'm currently learning Front-end since 2020. I'm hobbistic logo and web designer
 
 | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](mailto:office@bluee.dev) |
 | :---: | :---:|
-<div align="center"><img src="https://bluee.dev/assets/ArturFlis.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
+<div align="center"><img src="signature-white.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
