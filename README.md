@@ -11,11 +11,9 @@ I'm currently learning Front-end since 2020. I'm hobbistic logo and web designer
 
 • [ReNamed - For Shows](https://github.com/Panonim/Renamed)
 
-• [Glance Cup Updates - Widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/cup-updates-by-panonim/README.md)
+• [Promise Tracker](https://github.com/Panonim/kept)
 
-• [Glance Whats up docker monitor - custom api widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/wud-monitor-by-panonim/README.md)
-
-• [My Personal Page](https://bluee.dev)
+• [My Personal Page](https://artur.zone)
 
 
 <img height=230 src="https://github-readme-stats.vercel.app/api?username=panonim&show_icons=true&theme=holi&show=prs_merged&hide=contribs&rank_icon=github&text_bold=false" alt="Github Overview"/> <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=panonim&layout=donut&theme=holi&hide=qml,css" alt="Most Used Langs"/>
