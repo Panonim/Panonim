@@ -12,6 +12,13 @@ I’m currently studying IT in a technikum and I regularly take part in differen
 
 In my free time I’m into self-hosting and home infrastructure - I run my own server at home. I also enjoy flying FPV drones (still learning), 3D printing, and I’m in the process of creating my own podcast.
 
+## 🌍 Projects I'm working on
+- Dynacat https://github.com/Panonim/dynacat
+- Degoog https://github.com/degoog-org/degoog
+
+## ☕ Sponsor me 
+https://www.paypal.com/paypalme/imartur
+
 | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](mailto:office@bluee.dev) |
 | :---: | :---:|
 <div align="center"><img src="signature-white.svg" height=150px width=250px alt="ArturFlis Signature"/></div>
