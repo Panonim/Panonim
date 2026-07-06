@@ -17,7 +17,7 @@ In my free time I’m into self-hosting and home infrastructure - I run my own s
 - Degoog https://github.com/degoog-org/degoog
 
 ## ☕ Sponsor me 
-https://www.paypal.com/paypalme/imartur
+https://www.paypal.com/paypalme/imartur <br> https://ko-fi.com/panonim
 
 | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Website.svg" alt="Website" width="66"> ](https://bluee.dev/) | [<img src="https://raw.githubusercontent.com/Panonim/Panonim/main/Mail.svg" alt="Mail" width="66">](mailto:office@bluee.dev) |
 | :---: | :---:|
