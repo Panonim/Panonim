@@ -15,7 +15,6 @@ In my free time I’m into self-hosting and home infrastructure - I run my own s
 ## 🌍 Projects I'm working on
 - Dynacat https://github.com/Panonim/dynacat
 - Degoog https://github.com/degoog-org/degoog
-- Treegraph https://github.com/Panonim/treegraph
 - Aiofiles https://github.com/Panonim/aiofiles
 
 ## 🛠️ Skills & Technologies
