@@ -17,6 +17,8 @@ In my free time I’m into self-hosting and home infrastructure - I run my own s
 - Degoog https://github.com/degoog-org/degoog
 - Aiofiles https://github.com/Panonim/aiofiles
 
+![](https://github-readme-stats.shion.dev/api?username=panonim&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+
 ## 🛠️ Skills & Technologies
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Go" src="https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>  <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="JavaScript" src="https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&amp;variant=branded&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Bash" src="https://www.shieldcn.dev/badge/-Bash-4EAA25.svg?logo=gnubash&amp;variant=branded&amp;size=sm&amp;mode=light"></picture>
