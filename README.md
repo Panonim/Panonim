@@ -16,6 +16,7 @@ In my free time I’m into self-hosting and home infrastructure - I run my own s
 - Dynacat https://github.com/Panonim/dynacat
 - Degoog https://github.com/degoog-org/degoog
 - Aiofiles https://github.com/Panonim/aiofiles
+- Search in terminal https://github.com/Panonim/search-in-terminal
 
 ![](https://github-readme-stats.shion.dev/api?username=panonim&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 
