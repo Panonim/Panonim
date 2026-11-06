@@ -15,6 +15,7 @@ In my free time I’m into self-hosting and home infrastructure - I run my own s
 ## 🌍 Projects I'm working on
 - Dynacat https://github.com/Panonim/dynacat
 - Degoog https://github.com/degoog-org/degoog
+- Opencamera https://github.com/Panonim/opencamera
 - Aiofiles https://github.com/Panonim/aiofiles
 - Search in terminal https://github.com/Panonim/search-in-terminal
 
